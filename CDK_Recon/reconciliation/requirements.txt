@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+pyodbc==5.1.0
+sqlalchemy==2.0.30
+xlsxwriter==3.2.0
+fsspec==2024.5.0
+redshift_connector==2.1.1
