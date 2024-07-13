@@ -1,5 +1,15 @@
 # Automated Data Collection and Transformation Pipeline
 
+- [Project Description](#project-description)
+    - [Data Collection](#data-collection)
+    - [Data Transformation](#data-transformation)
+    - [CSV File Generation](#csv-file-generation)
+    - [Data Storage](#data-storage)
+    - [Automation and Scheduling](#automation-and-scheduling)
+    - [Deployment](#deployment)
+- [Technologies and Tools Used](#technologies-and-tools-used)
+- [Key Benefits](#key-benefits)
+
 ## Project Description
 This project involves the creation of a sophisticated Python script designed to automate the collection, transformation, and storage of data from multiple sources. The primary objectives and functionalities of the script are outlined as follows:
 
